@@ -1,29 +1,36 @@
 # EA Software Engineers Awesome List [![Awesome][awesome-badge]][awesome-link]
 
-> Doing Good Better for Technologists
+Doing Good Better for Technologists
 
-unofficial list of personal and open source projects that are relevant to EA Effective Altruism (or are at least EA-adjacent)
+An unofficial list of personal and open source projects that are relevant to EA Effective Altruism (or are at least deemed EA-adjacent by the contributors).
 
 ## Table of Contents
 
-- [Section Title](#section-title)
+- [Personal Projects](#personal-projects)
+- [Open Source Projects](#open-source-projects)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribute](#contribute)
 - [Credits](#credits)
 - [License](#license)
 
-## Section Title
+## Personal Projects
 
-Section description (optional).
+Created by EA Software Engineers
 
-- [Item](https://github.com/Pawamoy/cookiecutter-awesome) – Item short description.
+- [Item](https://github.com/Pawamoy/cookiecutter-awesome) – short description goes here
+
+## Open Source Projects
+
+Recommended by EA Software Engineers
+
+- [Item](https://github.com/Pawamoy/cookiecutter-awesome) – short description goes here
 
 ## Other Awesome Lists
 
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome)
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-* [The Warren](https://github.com/torchhound/warren)
+- [awesome-awesome](https://github.com/emijrp/awesome-awesome)
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [The Warren](https://github.com/torchhound/warren)
 
 ## Contribute
 
