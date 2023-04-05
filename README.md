@@ -28,8 +28,8 @@ Recommended by EA Software Engineers
 
 ##### AI Safety
 
-- [DecisionTransformerInterpretability](https://github.com/jbloomAus/DecisionTransformerInterpretability) – mechanistic interpretability of Reinforcement Learning project ([read more](https://www.lesswrong.com/posts/bBuBDJBYHt39Q5zZy/decision-transformer-interpretability)). (POC: [Joseph Bloom](https://github.com/jbloomAus))
-- [Transformer Lens](https://github.com/neelnanda-io/TransformerLens) – library for doing mechanistic interpretability of GPT-2 Style language models. The goal of mechanistic interpretability is to take a trained model and reverse engineer the algorithms the model learned during training from its weights. (POC: [Joseph Bloom](https://github.com/jbloomAus))
+- [DecisionTransformerInterpretability](https://github.com/jbloomAus/DecisionTransformerInterpretability) – mechanistic interpretability of Reinforcement Learning project ([read more](https://www.lesswrong.com/posts/bBuBDJBYHt39Q5zZy/decision-transformer-interpretability)). (POC: [Joseph Bloom](https://github.com/jbloomAus)).
+- [Transformer Lens](https://github.com/neelnanda-io/TransformerLens) – library for doing mechanistic interpretability of GPT-2 Style language models. The goal of mechanistic interpretability is to take a trained model and reverse engineer the algorithms the model learned during training from its weights. (POC: [Joseph Bloom](https://github.com/jbloomAus)).
 - [Tuned Lens](https://github.com/AlignmentResearch/tuned-lens) - tools for understanding how transformer predictions are built layer-by-layer.
 - [AI Safety Info / Stampy](https://github.com/StampyAI/) - "a single-point-of-access to AI Safety, designed to route people to the information they need whatever stage of exploration they are at"
   - You can interact with the wiki [here](https://aisafety.info/)
