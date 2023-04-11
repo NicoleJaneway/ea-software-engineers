@@ -50,7 +50,9 @@ Recommended by EA Software Engineers
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome!
+
+Find out how to contribute and read the [contribution guidelines](CONTRIBUTING.md) here.
 
 ## Credits
 
