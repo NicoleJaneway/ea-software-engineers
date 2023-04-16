@@ -18,7 +18,7 @@ Before you submit a pull request, check that it meets these guidelines:
   awesome_bot README.md
   ```
 3. Keep the contents sorted alphabetically
-4. Update the table of contents if necesseray
+4. Update the table of contents if necessary
 
 Thank you for your suggestions!
 
