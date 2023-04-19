@@ -12,6 +12,7 @@ An unofficial list of personal and open source projects that are relevant to EA 
   - [Open Source Projects](#open-source-projects)
     - [AI Safety](#ai-safety)
     - [General](#general)
+    - [Multiple Cause Areas](#multiple-cause-areas)
   - [Other Awesome Lists](#other-awesome-lists)
   - [Contribute](#contribute)
   - [Credits](#credits)
@@ -39,6 +40,10 @@ Recommended by EA Software Engineers
 ##### General
 
 - [Advice for getting started in Open Source](https://gist.github.com/NicoleJaneway/45069ea3ec808c5507d0e69282976457)
+
+##### Multiple Cause Areas
+
+- [The Nonlinear Library](https://github.com/Nonlinear-EA/The-Nonlinear-Library) - automatically turns posts from the EA Forum, Alignment Forum, and LessWrong into a podcast you can listen to. [Read more here](https://forum.effectivealtruism.org/posts/JTZTBienqWEAjGDRv/listen-to-more-ea-content-with-the-nonlinear-library).
 
 ## Other Awesome Lists
 
