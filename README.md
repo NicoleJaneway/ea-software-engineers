@@ -1,4 +1,4 @@
-# EA Software Engineers Awesome List [Awesome][awesome-link]
+# EA Software Engineers Awesome List [**![**Awesome**][awesome-badge]**][awesome-link]
 
 Doing Good Better for Technologists
 
@@ -56,11 +56,11 @@ Find out how to contribute and read the [contribution guidelines](CONTRIBUTING.m
 
 ## Credits
 
-This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] 🍪
+This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] **🍪**
 
 ## License
 
-[CC0][cc0-link]
+[**![**CC0**][cc0-badge]**][cc0-link]
 
 To the extent possible under law, Nicole Janeway has waived all copyright
 and related or neighboring rights to this work. See [LICENSE](LICENSE).

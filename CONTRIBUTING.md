@@ -6,7 +6,7 @@ To contribute make sure to fork this repository, push your changes to that forke
 
 Every little bit helps, and credit will always be given.
 
-If you get stuck or you are unsure about something pop into the EA Software Engineers office hours for help.
+If you get stuck or you are unsure about something pop into the EA Software Engineers Office Hours for help. Office Hours are the 2nd Monday of every month. Find out more [here](https://docs.google.com/presentation/d/1T11dj1I3c23ZMLGWL-EYZVVJkgOv9coNR1355MWojOA/edit#slide=id.g219723c9878_0_39).
 
 Please make sure to follow the [guidelines](#merge-pull-request-guidelines).
 
