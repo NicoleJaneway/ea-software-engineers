@@ -11,6 +11,7 @@ An unofficial list of personal and open source projects that are relevant to EA 
   - [Personal Projects](#personal-projects)
   - [Open Source Projects](#open-source-projects)
     - [AI Safety](#ai-safety)
+    - [Effective Giving](#effective-giving)
     - [General](#general)
     - [Multiple Cause Areas](#multiple-cause-areas)
   - [Other Awesome Lists](#other-awesome-lists)
@@ -36,6 +37,10 @@ Recommended by EA Software Engineers
 - [DecisionTransformerInterpretability](https://github.com/jbloomAus/DecisionTransformerInterpretability) – mechanistic interpretability of Reinforcement Learning project ([read more](https://www.lesswrong.com/posts/bBuBDJBYHt39Q5zZy/decision-transformer-interpretability)) (POC: [Joseph Bloom](https://github.com/jbloomAus))
 - [Transformer Lens](https://github.com/neelnanda-io/TransformerLens) – library for doing mechanistic interpretability of GPT-2 Style language models. The goal of mechanistic interpretability is to take a trained model and reverse engineer the algorithms the model learned during training from its weights (POC: [Joseph Bloom](https://github.com/jbloomAus))
 - [Tuned Lens](https://github.com/AlignmentResearch/tuned-lens) - tools for understanding how transformer predictions are built layer-by-layer
+
+##### Effective Giving
+
+- [Raise](http://github.com/raisenational/raise) - open-source fundraising and giving platform
 
 ##### General
 
