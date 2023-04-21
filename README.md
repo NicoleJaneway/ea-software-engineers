@@ -1,4 +1,4 @@
-# EA Software Engineers Awesome List [**![**Awesome**][awesome-badge]**][awesome-link]
+# EA Software Engineers Awesome List [![Awesome][awesome-badge]][awesome-link]
 
 Doing Good Better for Technologists
 
@@ -12,7 +12,6 @@ An unofficial list of personal and open source projects that are relevant to EA 
   - [Open Source Projects](#open-source-projects)
     - [AI Safety](#ai-safety)
     - [Effective Giving](#effective-giving)
-    - [General](#general)
     - [Multiple Cause Areas](#multiple-cause-areas)
   - [Other Awesome Lists](#other-awesome-lists)
   - [Contribute](#contribute)
@@ -23,7 +22,7 @@ An unofficial list of personal and open source projects that are relevant to EA 
 
 Created by EA Software Engineers
 
-- [Ideact.it ](https://app.ideact.it/)– A tool to evaluate different cause areas and ideas by assigning significance values to different variables. The tool tries to combine the ITN framework with personal factors and give a clear visulisation of this. (Zak)
+- [Ideact.it](https://app.ideact.it/) – A tool to evaluate different cause areas and ideas by assigning significance values to different variables. The tool tries to combine the ITN framework with personal factors and give a clear visulisation of this. (Zak)
 - [Your Project Name]() – A short description about your project
 
 ## Open Source Projects
@@ -35,28 +34,18 @@ Recommended by EA Software Engineers
 - [AI Safety Info / Stampy](https://github.com/StampyAI/) - "a single-point-of-access to AI Safety, designed to route people to the information they need whatever stage of exploration they are at"
   - You can interact with the wiki [here](https://aisafety.info/)
   - Stampy is a chatbot written in Python which can serve as a conversational interface between a human and AI Safety Info (and more!). Currently, Stampy runs only on Rob Miles' Discord server but he's probably going to invade other online spaces too.
-- [DecisionTransformerInterpretability](https://github.com/jbloomAus/DecisionTransformerInterpretability) – mechanistic interpretability of Reinforcement Learning project ([read more](https://www.lesswrong.com/posts/bBuBDJBYHt39Q5zZy/decision-transformer-interpretability)) (POC: [Joseph Bloom](https://github.com/jbloomAus))
-- [Transformer Lens](https://github.com/neelnanda-io/TransformerLens) – library for doing mechanistic interpretability of GPT-2 Style language models. The goal of mechanistic interpretability is to take a trained model and reverse engineer the algorithms the model learned during training from its weights (POC: [Joseph Bloom](https://github.com/jbloomAus))
+- [DecisionTransformerInterpretability](https://github.com/jbloomAus/DecisionTransformerInterpretability) – mechanistic interpretability of Reinforcement Learning project ([read more](https://www.lesswrong.com/posts/bBuBDJBYHt39Q5zZy/decision-transformer-interpretability)). POC: [Joseph Bloom](https://github.com/jbloomAus).
+- [Transformer Lens](https://github.com/neelnanda-io/TransformerLens) – library for doing mechanistic interpretability of GPT-2 Style language models. The goal of mechanistic interpretability is to take a trained model and reverse engineer the algorithms the model learned during training from its weights. POC: [Joseph Bloom](https://github.com/jbloomAus)).
 - [Tuned Lens](https://github.com/AlignmentResearch/tuned-lens) - tools for understanding how transformer predictions are built layer-by-layer
 
 ##### Effective Giving
 
 - [Raise](http://github.com/raisenational/raise) - open-source fundraising and giving platform
 
-##### General
-
-- [Advice for getting started in Open Source](https://gist.github.com/NicoleJaneway/45069ea3ec808c5507d0e69282976457)
-
 ##### Multiple Cause Areas
 
+- [Advice for getting started in Open Source](https://gist.github.com/NicoleJaneway/45069ea3ec808c5507d0e69282976457)
 - [The Nonlinear Library](https://github.com/Nonlinear-EA/The-Nonlinear-Library) - automatically turns posts from the EA Forum, Alignment Forum, and LessWrong into a podcast you can listen to. [Read more here](https://forum.effectivealtruism.org/posts/JTZTBienqWEAjGDRv/listen-to-more-ea-content-with-the-nonlinear-library).
-
-## Other Awesome Lists
-
-- [awesome-awesome](https://github.com/emijrp/awesome-awesome)
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-- [The Warren](https://github.com/torchhound/warren)
 
 ## Contribute
 
@@ -66,11 +55,11 @@ Find out how to contribute and read the [contribution guidelines](CONTRIBUTING.m
 
 ## Credits
 
-This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] **🍪**
+This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] :cookie:
 
 ## License
 
-[**![**CC0**][cc0-badge]**][cc0-link]
+[![CC0][cc0-badge]][cc0-link]
 
 To the extent possible under law, Nicole Janeway has waived all copyright
 and related or neighboring rights to this work. See [LICENSE](LICENSE).
