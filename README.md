@@ -11,6 +11,7 @@ An unofficial list of personal and open source projects that are relevant to EA 
   - [Personal Projects](#personal-projects)
   - [Open Source Projects](#open-source-projects)
     - [AI Safety](#ai-safety)
+    - [Climate](#climate)
     - [Effective Giving](#effective-giving)
     - [Multiple Cause Areas](#multiple-cause-areas)
   - [Other Awesome Lists](#other-awesome-lists)
@@ -35,8 +36,12 @@ Recommended by EA Software Engineers
   - You can interact with the wiki [here](https://aisafety.info/)
   - Stampy is a chatbot written in Python which can serve as a conversational interface between a human and AI Safety Info (and more!). Currently, Stampy runs only on Rob Miles' Discord server but he's probably going to invade other online spaces too.
 - [DecisionTransformerInterpretability](https://github.com/jbloomAus/DecisionTransformerInterpretability) – mechanistic interpretability of Reinforcement Learning project. [Read more](https://www.lesswrong.com/posts/bBuBDJBYHt39Q5zZy/decision-transformer-interpretability). POC: [Joseph Bloom](https://github.com/jbloomAus).
-- [Transformer Lens](https://github.com/neelnanda-io/TransformerLens) – library for doing mechanistic interpretability of GPT-2 Style language models. The goal of mechanistic interpretability is to take a trained model and reverse engineer the algorithms the model learned during training from its weights. POC: [Joseph Bloom](https://github.com/jbloomAus)).
+- [Transformer Lens](https://github.com/neelnanda-io/TransformerLens) – library for doing mechanistic interpretability of GPT-2 Style language models. The goal of mechanistic interpretability is to take a trained model and reverse engineer the algorithms the model learned during training from its weights. POC: [Joseph Bloom](https://github.com/jbloomAus).
 - [Tuned Lens](https://github.com/AlignmentResearch/tuned-lens) - tools for understanding how transformer predictions are built layer-by-layer
+
+##### Climate
+
+- [Code against Climate Change](https://github.com/climateaction-tech/code-against-climate-change) - curated list of tech projects that aim to inspire disruptive technological climate action!
 
 ##### Effective Giving
 
