@@ -1,4 +1,4 @@
-# EA Software Engineers Awesome List [![Awesome][awesome-badge]][awesome-link]
+# EA Software Engineers Awesome List [**![**Awesome**][awesome-badge]**][awesome-link]
 
 Doing Good Better for Technologists
 
@@ -22,7 +22,8 @@ An unofficial list of personal and open source projects that are relevant to EA 
 
 Created by EA Software Engineers
 
-- [Item](https://github.com/Pawamoy/cookiecutter-awesome) – short description goes here
+- [Ideact.it ](https://app.ideact.it/)– A tool to evaluate different cause areas and ideas by assigning significance values to different variables. The tool tries to combine the ITN framework with personal factors and give a clear visulisation of this. (Zak)
+- [Your Project Name]() – A short description about your project
 
 ## Open Source Projects
 
@@ -54,15 +55,17 @@ Recommended by EA Software Engineers
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome!
+
+Find out how to contribute and read the [contribution guidelines](CONTRIBUTING.md) here.
 
 ## Credits
 
-This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] :cookie:
+This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] **🍪**
 
 ## License
 
-[![CC0][cc0-badge]][cc0-link]
+[**![**CC0**][cc0-badge]**][cc0-link]
 
 To the extent possible under law, Nicole Janeway has waived all copyright
 and related or neighboring rights to this work. See [LICENSE](LICENSE).

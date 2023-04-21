@@ -2,21 +2,27 @@
 
 Contributions are welcome, and they are greatly appreciated!
 
-Every little bit helps, and credit will always be given.
-So feel free to create a [new merge/pull request][merge-link]!
+To contribute make sure to fork this repository, push your changes to that forked repository, then submit a pull request to this repository for your work to be merged.
 
-And make sure to follow the [guidelines](#merge-pull-request-guidelines).
+Every little bit helps, and credit will always be given.
+
+If you get stuck or you are unsure about something pop into the EA Software Engineers Office Hours for help. Office Hours are the 2nd Monday of every month. Find out more [here](https://docs.google.com/presentation/d/1T11dj1I3c23ZMLGWL-EYZVVJkgOv9coNR1355MWojOA/edit#slide=id.g219723c9878_0_39).
+
+Please make sure to follow the [guidelines](#merge-pull-request-guidelines).
 
 ## Merge/Pull Request Guidelines
 
 Before you submit a pull request, check that it meets these guidelines:
+
 1. Make sure to have atomic commits and contextual commit messages!
-  [Check out this awesome blog post by Chris Beams for more information.][chris-beams]
+   [Check out this awesome blog post by Chris Beams for more information.][chris-beams]
 2. Test the links :
+
 ```bash
   gem install awesome_bot
   awesome_bot README.md
-  ```
+```
+
 3. Keep the contents sorted alphabetically
 4. Update the table of contents if necessary
 
