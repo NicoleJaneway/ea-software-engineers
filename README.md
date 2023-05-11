@@ -19,6 +19,7 @@ An unofficial list of personal and open source projects that are relevant to EA 
   - [Credits](#credits)
   - [License](#license)
 
+
 ## Personal Projects
 
 Created by EA Software Engineers
@@ -47,10 +48,17 @@ Recommended by EA Software Engineers
 
 - [Raise](http://github.com/raisenational/raise) - open-source fundraising and giving platform
 
+##### Research, modeling/prediction, and research impact 
+
+- [The Unjournal](https://unjournal.org): organizes and funds public journal-independent feedback, rating, and evaluation of hosted papers and dynamically-presented research projects. We focus on quantitative work that informs global priorities, especially in economics, policy, and social science. We need software engineers to help us build our platforms (e.g., [our space on pubub](https://unjournal.pubpub.org/), our editorial management workflows (leveraging API tools), and integrate with other communications, meta-science, open-science, bibliometric, and prediction/estimation platforms and tools (e.g., potentially Plaudit, EA Forum, OSF.io, Squiggle, Metaculus, etc.).  We're hiring contractors, and will have more contract work (and volunteer work) soon.  
+
 ##### Multiple Cause Areas
 
 - [Advice for getting started in Open Source](https://gist.github.com/NicoleJaneway/45069ea3ec808c5507d0e69282976457)
 - [The Nonlinear Library](https://github.com/Nonlinear-EA/The-Nonlinear-Library) - automatically turns posts from the EA Forum, Alignment Forum, and LessWrong into a podcast you can listen to. [Read more](https://forum.effectivealtruism.org/posts/JTZTBienqWEAjGDRv/listen-to-more-ea-content-with-the-nonlinear-library).
+
+
+
 
 ## Contribute
 
