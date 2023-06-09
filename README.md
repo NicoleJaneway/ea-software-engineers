@@ -17,6 +17,7 @@ An unofficial list of personal and open source projects that are relevant to EA 
     - [Effective Giving](#effective-giving)
     - [Forecasting](#forecasting)
     - [Multiple Cause Areas](#multiple-cause-areas)
+    - [Policy](#policy)
   - [Other Awesome Lists](#other-awesome-lists)
   - [Contribute](#contribute)
   - [Credits](#credits)
@@ -36,6 +37,7 @@ Recommended by EA Software Engineers
 
 ##### AI Safety
 
+- [aisafetyideas.com](https://github.com/apartresearch/aisafetyideas) - https://aisafetyideas.com/
 - [AI Safety Info / Stampy](https://github.com/StampyAI/) - "a single-point-of-access to AI Safety, designed to route people to the information they need whatever stage of exploration they are at"
   - You can interact with the wiki [here](https://aisafety.info/)
   - Stampy is a chatbot written in Python which can serve as a conversational interface between a human and AI Safety Info (and more!). Currently, Stampy runs only on Rob Miles' Discord server but he's probably going to invade other online spaces too.
@@ -55,6 +57,7 @@ Recommended by EA Software Engineers
 ##### Data Analysis
 
 - [Eigen Trust](https://github.com/eigen-trust/protocol) - A distributed reputation system
+- [Forecast](https://github.com/robjhyndman/forecast) - forecast package for R
 - [Guesstimate](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates - https://getguesstimate.com/
 - [Our World in Data](https://github.com/owid/owid-grapher/) - https://ourworldindata.org/
 - [Polis](https://github.com/compdemocracy/polis) - https://pol.is/home
@@ -63,6 +66,7 @@ Recommended by EA Software Engineers
   
 ##### Effective Giving
 
+- [Card Generator](https://github.com/TLYCS/Card_Generator) - a free, easy to use eCard creator specifically for people giving to effective charities as gifts
 - [Impact Market](https://github.com/impactMarket/app) - https://app.impactmarket.com/
 - [Raise](http://github.com/raisenational/raise) - open-source fundraising and giving platform
 
@@ -73,11 +77,15 @@ Recommended by EA Software Engineers
 ##### Multiple Cause Areas
 
 - [Advice for getting started in Open Source](https://gist.github.com/NicoleJaneway/45069ea3ec808c5507d0e69282976457)
+- [eawork.club](https://github.com/henryaj/ea-work-club) - https://www.eawork.club/ - About
+High-impact jobs and side projects for effective altruists
+- [ForumMagnum](https://github.com/ForumMagnum/ForumMagnum) - The development repository for LessWrong2 and the EA Forum
 - [The Nonlinear Library](https://github.com/Nonlinear-EA/The-Nonlinear-Library) - automatically turns posts from the EA Forum, Alignment Forum, and LessWrong into a podcast you can listen to. [Read more](https://forum.effectivealtruism.org/posts/JTZTBienqWEAjGDRv/listen-to-more-ea-content-with-the-nonlinear-library).
-
 - [The Unjournal](https://unjournal.org): organizes and funds public journal-independent feedback, rating, and evaluation of hosted papers and dynamically-presented research projects. We focus on quantitative work that informs global priorities, especially in economics, policy, and social science. We need software engineers to help us build our platforms (e.g., [our space on pubub](https://unjournal.pubpub.org/), our editorial management workflows (leveraging API tools), and integrate with other communications, meta-science, open-science, bibliometric, and prediction/estimation platforms and tools (e.g., potentially Plaudit, EA Forum, OSF.io, Squiggle, Metaculus, etc.).  We're hiring contractors, and will have more contract work (and volunteer work) soon. (Tags: Research, modeling/prediction, and research impact)
 
+##### Policy
 
+- [PolicyEngine](https://github.com/PolicyEngine) -open-source software to compute the impact of public policy
 
 
 ## Contribute
