@@ -28,8 +28,8 @@ An unofficial list of personal and open source projects that are relevant to EA 
 
 Created by EA Software Engineers
 
-- [Ideact.it](https://app.ideact.it/) – a tool to evaluate different cause areas and ideas by assigning significance values to different variables. The tool tries to combine the [importance, tractability, neglectedness (ITN) framework](https://forum.effectivealtruism.org/topics/itn-framework) with personal factors and give a clear visualisation of this. POC: [Zak Watts](https://docs.google.com/presentation/d/1T11dj1I3c23ZMLGWL-EYZVVJkgOv9coNR1355MWojOA/edit#slide=id.g200427df15d_1_0).
 - [elsim](https://github.com/endolith/elsim) – software for simulating elections and evaluating the utilitarian performance of different voting systems, as well as example scripts that reproduce results from computational social choice theory papers
+- [Ideact.it](https://app.ideact.it/) – a tool to evaluate different cause areas and ideas by assigning significance values to different variables. The tool tries to combine the [importance, tractability, neglectedness (ITN) framework](https://forum.effectivealtruism.org/topics/itn-framework) with personal factors and give a clear visualisation of this. POC: [Zak Watts](https://docs.google.com/presentation/d/1T11dj1I3c23ZMLGWL-EYZVVJkgOv9coNR1355MWojOA/edit#slide=id.g200427df15d_1_0).
 - [Your Project Name]() – a short description about your project
 
 ## Open Source Projects
@@ -63,7 +63,7 @@ Recommended by EA Software Engineers
 - [Our World in Data](https://github.com/owid/owid-grapher/) - https://ourworldindata.org/
 - [Polis](https://github.com/compdemocracy/polis) - https://pol.is/home
 - [Squiggle](https://github.com/quantified-uncertainty/squiggle) - https://www.squiggle-language.com/
- 
+
   
 ##### Effective Giving
 
